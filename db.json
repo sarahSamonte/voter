@@ -1,4 +1,5 @@
-[
+{
+"voters": [
 {
 	"candidateId" : 1,
     "candidateTypeId" : 1,
@@ -18,3 +19,4 @@
     "lastName" : "Hofstader"
 }
 ]
+}
